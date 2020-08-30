@@ -1,16 +1,17 @@
-### Hi there 👋
+> ### Muhammed Mustafa Özbay
+> Geliştirici / Developer
+> İstanbul, Türkiye 
 
-<!--
-**MuhammedOzby/MuhammedOzby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Selehattin Karasoy
+> BölümBilgisayar Programlama 2 Yıllık Bilgisayar programcılığı (Terk)
+> Öğrencilik süresi: 2015 – 2017
 
-Here are some ideas to get you started:
+*Merhabalar; :wave:*​
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Genel olarak başta yazılım alt dal olarak sistem ve ağ teknolojileri içerisinde işler yapmaktayım. Geliştirdiğim açık işler ve sistemleri yakında buradan paylaşmaya başlayıacağım. 
+
+Genel notlar profil deposunda olurken yaptığım örneklerim ayrı depolarda bulunacaktır. Her repoda gerekli bilgileri ekleyeceğim. Umarım sizler için yaralı olur.
+
+Herkese iyi çalışmalar. :wrench:
+
+**Not:** Tüm markdown dosyaları **Typora** üzerinden hazırlanmaktadır. Kendilerini bir ziyaret etmek isterseniz: [Typora — a markdown editor, markdown reader.](https://typora.io/)
