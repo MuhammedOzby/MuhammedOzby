@@ -15,5 +15,3 @@ Genel olarak başta yazılım alt dal olarak sistem ve ağ teknolojileri içeris
 Genel notlar profil deposunda olurken yaptığım örneklerim ayrı depolarda bulunacaktır. Her repoda gerekli bilgileri ekleyeceğim. Umarım sizler için yaralı olur.
 
 Herkese iyi çalışmalar. :wrench:
-
-**Not:** Tüm markdown dosyaları **Typora** üzerinden hazırlanmaktadır. Kendilerini bir ziyaret etmek isterseniz: [Typora — a markdown editor, markdown reader.](https://typora.io/)
