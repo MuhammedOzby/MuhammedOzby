@@ -6,7 +6,7 @@
 
 Merhabalar; :wave:
 
-<img align="right" alt="GIF" src="public/hello.gif" width="320" height="150" />
+<img style="margin-left:25px;width:40%;" align="right" alt="GIF" src="public/hello.gif" />
 
 Birçok yazılım işi veya projesi yapmış ve teknik işlerde bulunmuş biriyim. Ne yazık ki bu işler şimdiye kadar ya küçük ölçekte ya da ikinci plandaki işlerdi. Herhangi bir kariyer üzerinde ilerlemekten ziyade bir hedef olmaksızın  aptığım çalışmalar her ne kadar tecrübe katmış da uzmanlık ne yazık ki söz konusu olmadı. Bundan sonraki süreçte Backend Development yönünde uzmanlaşma kararı ile başvuruda bulunmaktayım.
 
@@ -16,6 +16,7 @@ Birçok yazılım işi veya projesi yapmış ve teknik işlerde bulunmuş biriyi
 
 **2015 - Devam**
 *Ön lisans / Bilgisayar programcılığı*
+
 Zorunlu stajyerlik tamamlanmamıştır.
 
 ## :wrench: DENEYİM
@@ -23,11 +24,13 @@ Zorunlu stajyerlik tamamlanmamıştır.
 ### TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti
 
 - **Geliştirici/Tekniker**
-*Ağu 2018 - Ocak 2020*  
+*Ağu 2018 - Ocak 2020*
+
 Ufak ölçekli uygulama geliştirme ve sunucu kurulum hizmetleri, sistem izleme (Zabbix, PRTG) uygulamalarında teknik çalışmalar.
 
 ### Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş
 
 - **Geliştirici/Tekniker**
 *Tem 2017 - Tem 2018*
+
 Veri merkezinde teknikerlik ve küçük ölçekli uygulama geliştirme.
