@@ -1,17 +1,33 @@
-> ### Muhammed Mustafa Özbay
-> Geliştirici / Developer
-> İstanbul, Türkiye 
+# Profile
 
-> Selehattin Karasoy
-> BölümBilgisayar Programlama 2 Yıllık Bilgisayar programcılığı (Terk)
-> Öğrencilik süresi: 2015 – 2017
-
-
+> Jr. Back-End Developer
+> İstanbul, Türkiye
+> [Özgeçmiş](public/ozgeçmiş.pdf)
 
 Merhabalar; :wave:
 
-Genel olarak başta yazılım alt dal olarak sistem ve ağ teknolojileri içerisinde işler yapmaktayım. Geliştirdiğim açık işler ve sistemleri yakında buradan paylaşmaya başlayıacağım. 
+<img align="right" alt="GIF" src="public/hello.gif" width="320" height="150" />
 
-Genel notlar profil deposunda olurken yaptığım örneklerim ayrı depolarda bulunacaktır. Her repoda gerekli bilgileri ekleyeceğim. Umarım sizler için yaralı olur.
+Birçok yazılım işi veya projesi yapmış ve teknik işlerde bulunmuş biriyim. Ne yazık ki bu işler şimdiye kadar ya küçük ölçekte ya da ikinci plandaki işlerdi. Herhangi bir kariyer üzerinde ilerlemekten ziyade bir hedef olmaksızın  aptığım çalışmalar her ne kadar tecrübe katmış da uzmanlık ne yazık ki söz konusu olmadı. Bundan sonraki süreçte Backend Development yönünde uzmanlaşma kararı ile başvuruda bulunmaktayım.
 
-Herkese iyi çalışmalar. :wrench:
+## :school: Eğitim
+
+### Isparta Uygulamalı Bilimler Üniversitesi - ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU
+
+**2015 - Devam**
+*Ön lisans / Bilgisayar programcılığı*
+Zorunlu stajyerlik tamamlanmamıştır.
+
+## :wrench: DENEYİM
+
+### TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti
+
+- **Geliştirici/Tekniker**
+*Ağu 2018 - Ocak 2020*  
+Ufak ölçekli uygulama geliştirme ve sunucu kurulum hizmetleri, sistem izleme (Zabbix, PRTG) uygulamalarında teknik çalışmalar.
+
+### Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş
+
+- **Geliştirici/Tekniker**
+*Tem 2017 - Tem 2018*
+Veri merkezinde teknikerlik ve küçük ölçekli uygulama geliştirme.
