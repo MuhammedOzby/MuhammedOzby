@@ -6,7 +6,7 @@
 
 Merhabalar; :wave:
 
-<img style="margin-left:5px;width:30%;" align="right" alt="GIF" src="public/hello.gif" />
+<img style="margin-left:5px;width:30%;" align="right" alt="GIF" src="https://raw.githubusercontent.com/MuhammedOzby/MuhammedOzby/master/public/hello.gif" />
 
 Birçok yazılım işi veya projesi yapmış ve teknik işlerde bulunmuş biriyim. Ne yazık ki bu işler şimdiye kadar ya küçük ölçekte ya da ikinci plandaki işlerdi. Herhangi bir kariyer üzerinde ilerlemekten ziyade bir hedef olmaksızın  aptığım çalışmalar her ne kadar tecrübe katmış da uzmanlık ne yazık ki söz konusu olmadı. Bundan sonraki süreçte Backend Development yönünde uzmanlaşma kararı ile başvuruda bulunmaktayım.
 
