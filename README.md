@@ -1,11 +1,5 @@
 # Back-End developer on Node.JS (and with Typescript)
 
-<div style="width: 200px; overflow: hidden; display: block; height: 360px;"> 
-<video controls="false" loop autoplay loop muted>
-<source src="public/video.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
-</div>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
@@ -27,7 +21,6 @@ Your browser does not support the video tag.
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
 </a>
-
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
 </a>
@@ -106,11 +99,15 @@ My main career is the Back-End also sometimes development on Front side with rea
 
 And i am freelancer of on jobless times. I develop applications as a full-stack developer in my free time. I made system/device configuration (KVM setup, IDRAC vb. setup many remote manage system, RAID, Device montage) or setup the network (NAS, SAMBA, Printer share vb., VPN setup, Firewall configuration) within my network and system knowledge experience.
 
+---
+
 # EĞİTİM BİLGİLERİ
 
 ## Isparta Uygulamalı Bilimler Üniversitesi - ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU
 
 Ön lisans / Bilgisayar programcılığı
+
+---
 
 # DENEYİM
 
@@ -131,6 +128,8 @@ Ufak ölçekli uygulama geliştirme ve sunucu kurulum hizmetleri, sistem izleme 
 Tem 2017 - Tem 2018
 
 Veri merkezinde teknikerlik ve küçük ölçekli uygulama geliştirme. Teknikerlik unvanında ağ kablolama, rack mount sistem kurulumu, donanım montaj, donanım güncelleme (BIOS update, Linux tabanlı sistemlerde sürücü kurulumu), ağ ve sistem izleme görevlerini yerine getirdim. Geliştirici unvanıyla PHP dili ile uygulamalar geliştirdim. Zabbix ile monitoring sistemleri geliştirdim (Kurulum dışında script, template geliştirme). Çeşitli entegrasyonlar ve server reconfiguration işlemleri yaptım.
+
+---
 
 # Açık Kaynak Paylaşımlar
 
@@ -166,6 +165,8 @@ Kullanılan major teknolojiler:
   - obs-websocket-js
   - react-router-dom
 
+---
+
 # BİREYSEL DANIŞMANLIK İŞ DENEYİMLERİ
 
 ## Teknik Servis Yönetim ve İş Sürecini Planlama Sistemi (10.2022-01.2023)
@@ -179,8 +180,6 @@ Full Stack Geliştirici olarak;
 - CRM desteği ile müşteri bilgilendirilmesini sağlayan bir interface geliştirdim.
 
 Firmanın gelecek iş planları doğrultusunda diğer uygulamalar ile entegre edilebilirliği de destekleyen; PWA ve Mobile APP oluşturduğum bir proje tasarladım ve geliştirdim. Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise Express JS ile MSSQL’i; ayrıca  tüm geliştirme sürecinde TypeScript dilini kullandım. Uygulamanın mobil ön yüzünde ise React Native ve TypeScript kullanılmıştır. Uygulamada kişisel veriler söz konusu olduğundan, tüm iş modeli süreci KVKK kapsamına uygun olarak geliştirilmiştir.
-
----
 
 ## Stok - Transfer Yönetimi (03.2022-07.2022)
 
@@ -198,6 +197,8 @@ Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise E
 
 Özel paneller: Müşteriler ile şirket arasında gerekli raporların sağlanması amacıyla verilen ve şirket içerisinde belirlenen formüller ile rapor sayfaları geliştirdim. Ağırlıklı olarak JavaScript dili ile NodeJS üzerinde geliştirme yaptım. Entegrasyon gerektiği durumlarda ise PHP dilini de kullandım. Ön yüz kısmında ise bootstrap kütüphanesi dışında ağırlıklı olarak Chart JS ve bazı durumlarda da entegrasyon yapılan sistemin kendi UI temasına entegre çözümleri kullandım.
 
+---
+
 # SERTİFİKALAR
 
 ## Patika.dev - Javascript Bootcamp 
@@ -207,6 +208,8 @@ Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise E
 ## HackerRank - JavaScript (Basic) Certificate
 
 [Dijital Sertifika sayfası](https://www.hackerrank.com/certificates/a9201364afad)
+
+---
 
 # YABANCI DİL
 
