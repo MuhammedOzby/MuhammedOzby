@@ -1,70 +1,4 @@
-# Back-End developer on Node.JS (and with Typescript)
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://archlinux.org" target="_blank" rel="noreferrer"> 
-<img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="archlinux" width="120" height="40"/>
-</a>
-<a href="https://nestjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev" target="_blank" rel="noreferrer"> 
-<img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash/shell" width="40" height="40"/>
-</a>
-<a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original-wordmark.svg" alt="couchdb" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/>
-</a>
-<a href="https://godotengine.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" alt="godotgameengine" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
-</a>
-<a href="https://threejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-</a>
-
----
+# NOC System NOC Sistem Uzmanı - IST Systems
 
 Mail: [muhammed.ozby@outlook.com](mailto:muhammed.ozby@outlook.com)
 
@@ -79,15 +13,15 @@ Geliştirme ortamı mutfak, sunucu masadır. Yemek yaparken mutfak kirlenir. Mas
 
 Back end ve bazen de React ile ön yüze salça oluyorum. Sunucu tarafında işletim sistemi altında ağ yönetimine de girişiyorum. Proxy, NAT, VPN vd. gibi ihtiyaçlar doğrultusunda ağ yönetimi sağlıyorum. Bazen ağ cihazlarına müdahalede ediyorum. Konteyner oluşturuyorum. Aktif olarak Docker'ı hem geliştirme ortamı hem de dağıtımda kullanıyorum. Kubernates ise henüz başlangıçta.
 
-AWS, GCP, Azure gibi bulut platformlarını kullanmıyorum. Çünkü o ölçekte uygulama olmadı. Talep eden de olmadı. Gerekmedi kısaca . Hatta bazen Node JS Hostingler iş gördü. Ben ya çok optimize yazıyorum ya da beklenen yük olmadı hiç, bilmiyorum. Tek diyeceğim ihtiyaç analizi mühim yoksa çok yakarsınız. Bu arada hızlı bir şekilde de ölçeklenmeniz de gerekir. Falan filan...
-
 Aktif olarak uzun bir süredir TypeScript ile geliştirme yapmaktayım. Uygulamalar ölçekte artık daha büyükler. Teknik kısmı ise başka onu yazmaya yetmez burası.
 
 Sunucu tarafında Debian ve CentOS ayağı kaydığından beri Alma, Rocky, openSUSE vd. karışık gidiyor. Son kullanıcı tarafında ise Arch tabanlı Endeavour OS var.
 
-Şu anda aktif olarak iş arıyorum.
+Bu sırada ise bireysel olarak danışmanlık yaptım. Bu danışmanlık çerçevesinde tam yığın geliştirici olarak uygulamalar geliştirmekteyim. Ağ ve sistem bilgim ve tecrübem dahilinde gerek ağ üzerinde sistemler (NAS, SAMBA, Printer share vb., VPN kurulumu, Firewall ayarlamaları) ve cihaz müdahaleleri (KVM kurulumu, IDRAC vb. uzaktan erişim kurulumu, RAID, Cihaz montaj, gerekli parça tedariği vb.) yaptım.
 
-Bu sırada ise bireysel olarak danışmanlık yapmaktayım. Bu danışmanlık çerçevesinde tam yığın geliştirici olarak uygulamalar geliştirmekteyim. Ağ ve sistem bilgim ve tecrübem dahilinde gerek ağ üzerinde sistemler (NAS, SAMBA, Printer share vb., VPN kurulumu, Firewall ayarlamaları) ve cihaz müdahaleleri (KVM kurulumu, IDRAC vb. uzaktan erişim kurulumu, RAID, Cihaz montaj, gerekli parça tedariği vb.) yaptım.
+2023 yılında ise yazılım sektöründe geri NOC alanına geçiş yaptım. İleriye dönük sistem mimarilerinden ziyade sistem ve ağ altyapısını izlemek, otomasyon araçları geliştirmek ve sistem ve ağ uygulamalarında ihtiyaca yönelik uygulamalarda geliştirme yapmayı hedefledim.
+
+Kariyerimde bundan sonraki süreçte ilk olarak DevOPS ardından NetDevOPS olarak bir yol çizmiş bulunmaktayım. Bunlarla ilgili bireysel uygulama ve projelerimi github üzerinde paylaşımı yapmaktayım.
 
 ---
 
@@ -110,6 +44,12 @@ And i am freelancer of on jobless times. I develop applications as a full-stack 
 ---
 
 # DENEYİM
+
+## IST Systems - NOC Sistem Uzmanı
+
+Nis 2023 - Devam ediyorum
+
+NOC uzmanlığı ve Sistem uzmanlığı olmak üzere iki ayrı kolda görevlerimi yerine getirmekteyim. NOC uzmanlığında kritik durumları yönlendirme, olaylara ilk müdahaleyi sağlama ve saha desteği mevcudiyeti ile L1 seviye network müdahaleleri. Sistem uzmanı olarak L1 Sistem müdahaleleri, hızlı müdahale gereken durumlarda ilk müdahale, tanımlı görevler başlıca olmak üzere bir çok işi yerine getirmekteyim.
 
 ## Rising Dijital Teknoloji LTD. ŞTİ. - Yazılım Geliştirici
 
