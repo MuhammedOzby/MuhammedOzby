@@ -1,37 +1,51 @@
-# NOC System NOC Sistem Uzmanı - IST Systems
+# NOC / Sistem Uzmanı - IST Systems
 
 Mail: [muhammed.ozby@outlook.com](mailto:muhammed.ozby@outlook.com)
 
 [Github](https://github.com/muhammedOzby) - [LinkedIn](https://www.linkedin.com/in/muhammed-mustafa-ozbay/) - [Twitter](https://twitter.com/KaranlikDiyar) - [StackOverflow](https://stackoverflow.com/users/8637049/siyah-prens) - [HackerRank](https://www.hackerrank.com/muhammed_ozby)
 
-Youtube Kanallar:
+Youtube Kanalları:
 [Muhammed Mustafa ÖZBAY](https://www.youtube.com/@muhammedozby) - [Merdiven altı yazılımcı](https://www.youtube.com/@merdivenaltiyazilmci)
 
 ---
 
-Geliştirme ortamı mutfak, sunucu masadır. Yemek yaparken mutfak kirlenir. Masayı ise asla kirletme!
+## Hakkımda
 
-Back end ve bazen de React ile ön yüze salça oluyorum. Sunucu tarafında işletim sistemi altında ağ yönetimine de girişiyorum. Proxy, NAT, VPN vd. gibi ihtiyaçlar doğrultusunda ağ yönetimi sağlıyorum. Bazen ağ cihazlarına müdahalede ediyorum. Konteyner oluşturuyorum. Aktif olarak Docker'ı hem geliştirme ortamı hem de dağıtımda kullanıyorum. Kubernates ise henüz başlangıçta.
+Uzun süredir **NOC Sistem Uzmanı** olarak görev yapmaktayım. Bu roldeki temel sorumluluklarım geniş bir yelpazeyi kapsamakta olup, başlıcaları şunlardır:
 
-Aktif olarak uzun bir süredir TypeScript ile geliştirme yapmaktayım. Uygulamalar ölçekte artık daha büyükler. Teknik kısmı ise başka onu yazmaya yetmez burası.
+- Cisco cihazlarda Layer 2 (anahtarlama) desteği sağlamak.
+- Ağ üzerindeki cihazların genel denetimini ve kontrolünü gerçekleştirmek.
+- 802.1X, LDAP (Active Directory) ve Cisco ISE gibi platformlar aracılığıyla kimlik doğrulama ve erişim kontrolü süreçlerini desteklemek ve izlemek.
+- Sunucuları sürekli izleyerek disk alanı temizleme, kaynak takibi ve kritik kaynak kullanım durumlarında müdahale gibi birinci seviye işlemleri yürütmek.
+- Layer 2 anahtarlama yapılandırmalarını denetlemek, kontrol etmek ve düzenlemek.
 
-Sunucu tarafında Debian ve CentOS ayağı kaydığından beri Alma, Rocky, openSUSE vd. karışık gidiyor. Son kullanıcı tarafında ise Arch tabanlı Endeavour OS var.
+Bu temel NOC görevlerine ek olarak, ağ yönetimi (Proxy, NAT, VPN yapılandırması), sistem yönetimi (AlmaLinux, Rocky Linux, openSUSE vb. Linux dağıtımları; son kullanıcı tarafında Arch tabanlı Endeavour OS) ve konteyner teknolojileri (aktif Docker kullanımı, başlangıç seviyesinde Kubernetes) alanlarında da yetkinliklere sahibim.
 
-Bu sırada ise bireysel olarak danışmanlık yaptım. Bu danışmanlık çerçevesinde tam yığın geliştirici olarak uygulamalar geliştirmekteyim. Ağ ve sistem bilgim ve tecrübem dahilinde gerek ağ üzerinde sistemler (NAS, SAMBA, Printer share vb., VPN kurulumu, Firewall ayarlamaları) ve cihaz müdahaleleri (KVM kurulumu, IDRAC vb. uzaktan erişim kurulumu, RAID, Cihaz montaj, gerekli parça tedariği vb.) yaptım.
+Geliştirme becerilerimi (ağırlıklı olarak TypeScript ile backend, zaman zaman React ile frontend) özellikle NOC operasyonlarını destekleyen otomasyon çözümleri ve dahili araçlar geliştirmek için aktif olarak kullanıyorum.
 
-2023 yılında ise yazılım sektöründe geri NOC alanına geçiş yaptım. İleriye dönük sistem mimarilerinden ziyade sistem ve ağ altyapısını izlemek, otomasyon araçları geliştirmek ve sistem ve ağ uygulamalarında ihtiyaca yönelik uygulamalarda geliştirme yapmayı hedefledim.
+Ana görevimin yanı sıra, geçmişte tam yığın (full-stack) geliştirici olarak bireysel danışmanlık projeleri de yürüttüm. Bu projelerde ağ ve sistem bilgimi kullanarak müşterilerime özel çözümler sundum (örn: NAS, SAMBA, VPN, Firewall kurulumları; KVM, IDRAC, RAID yapılandırmaları, donanım montajı).
 
-Kariyerimde bundan sonraki süreçte ilk olarak DevOPS ardından NetDevOPS olarak bir yol çizmiş bulunmaktayım. Bunlarla ilgili bireysel uygulama ve projelerimi github üzerinde paylaşımı yapmaktayım.
+Kariyerimde bir sonraki adımlar olarak DevOps ve ardından NetDevOps alanlarında uzmanlaşmayı hedefliyorum. Bu alanlardaki bireysel çalışmalarımı ve projelerimi GitHub profilimde paylaşıyorum.
 
 ---
 
-Eng and short:
+#### Summary (English)
 
-The development side is the kitchen and the server is the table. The kitchen gets dirty while you working. Never dirty the table!
+I have extensive experience working as a **NOC System Specialist**. My primary responsibilities in this role include:
 
-My main career is the Back-End also sometimes development on Front side with react. I also engage in network management under the operating system on the server side. I setup/configuration Proxy, NAT, VPN etc. on the operating systems. Also sometimes i am configuring network devices and make containers. I use Docker in both development area and distribution. Also i usage kubernetes is little bit on getting started level.
+- Providing Layer 2 switching support, particularly on Cisco devices.
+- Auditing and controlling devices across the network.
+- Supporting and monitoring authentication and access control via platforms such as 802.1X, LDAP (Active Directory), and Cisco ISE.
+- Performing continuous server monitoring and first-level interventions (e.g., disk space cleanup, resource tracking, addressing critical resource usage).
+- Auditing, controlling, and adjusting Layer 2 switch configurations.
 
-And i am freelancer of on jobless times. I develop applications as a full-stack developer in my free time. I made system/device configuration (KVM setup, IDRAC vb. setup many remote manage system, RAID, Device montage) or setup the network (NAS, SAMBA, Printer share vb., VPN setup, Firewall configuration) within my network and system knowledge experience.
+Beyond these core NOC duties, I also have experience configuring technologies like Proxy, NAT, and VPN. My system administration background covers various Linux distributions (AlmaLinux, Rocky Linux, openSUSE, etc.). I actively use Docker for containerization and have beginner-level familiarity with Kubernetes.
+
+I leverage my development skills (primarily TypeScript for backend, occasionally React for frontend) to build automation scripts and internal tools that support NOC operations.
+
+Alongside my primary role, I have also undertaken freelance projects as a full-stack developer, providing custom solutions using my network and system expertise (e.g., system/network setup including NAS/SAMBA/VPN/Firewalls, and device management like KVM/IDRAC/RAID).
+
+My future career goals are focused on specializing in DevOps and subsequently NetDevOps. I share my personal projects related to these fields on my GitHub profile.
 
 ---
 
@@ -39,7 +53,7 @@ And i am freelancer of on jobless times. I develop applications as a full-stack 
 
 ## Isparta Uygulamalı Bilimler Üniversitesi - ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU
 
-Ön lisans / Bilgisayar programcılığı
+Ön lisans / Bilgisayar Programcılığı
 
 ---
 
@@ -47,107 +61,27 @@ And i am freelancer of on jobless times. I develop applications as a full-stack 
 
 ## IST Systems - NOC Sistem Uzmanı
 
-Nis 2023 - Devam ediyorum
+Nisan 2023 - Devam ediyorum
 
-NOC uzmanlığı ve Sistem uzmanlığı olmak üzere iki ayrı kolda görevlerimi yerine getirmekteyim. NOC uzmanlığında kritik durumları yönlendirme, olaylara ilk müdahaleyi sağlama ve saha desteği mevcudiyeti ile L1 seviye network müdahaleleri. Sistem uzmanı olarak L1 Sistem müdahaleleri, hızlı müdahale gereken durumlarda ilk müdahale, tanımlı görevler başlıca olmak üzere bir çok işi yerine getirmekteyim.
+NOC uzmanlığı ve Sistem uzmanlığı rollerini bir arada yürütüyorum. NOC uzmanı olarak kritik durumları ilgili ekiplere yönlendirme, olaylara ilk müdahaleyi yapma ve saha desteği ile L1 seviyesinde ağ sorunlarına müdahale ediyorum. Sistem uzmanı olarak ise L1 seviyesinde sistem sorunlarına müdahale, acil durumlarda ilk müdahale ve tanımlı görevleri yerine getiriyorum.
 
 ## Rising Dijital Teknoloji LTD. ŞTİ. - Yazılım Geliştirici
 
-Nis 2022 - Eylül 2022
+Nisan 2022 - Eylül 2022
 
-Şirket ihtiyaçlarına yönelik; rapor panelleri (Dashboard), yönetim araçları, sistem (VPN, sunucu vb.) kurulumları ve full stack olarak yazılımlar/araçlar ürettim. Kısaca bahsedebileceklerim; şirketim sistemlerini izleyebileceği çeşitli raporlama sayfaları, ağ sistemleri, uzak cihaz yönetim ve kontrolü (SSH, özel çözümler geliştirme), sunucu kurulumları, otomasyon yönetim araçları, uyarı-bildiri sistemleri, işlem kontrol ve müdahale araçları geliştirdim.
+Şirket ihtiyaçlarına yönelik rapor panelleri (Dashboard), yönetim araçları geliştirdim; sistem (VPN, sunucu vb.) kurulumları yaptım ve Full Stack olarak çeşitli yazılımlar/araçlar ürettim. Geliştirdiğim çözümler arasında şirketin sistemlerini izlemesini sağlayan raporlama sayfaları, ağ sistemleri yönetimi, uzak cihaz yönetim ve kontrol araçları (SSH tabanlı ve özel çözümler), sunucu kurulumları, otomasyon araçları, uyarı/bildirim sistemleri ve işlem kontrol/müdahale araçları bulunmaktadır.
 
-## TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti. - Geliştirici/Tekniker
+## TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti. - Geliştirici / Tekniker
 
-Ağu 2018 - Ocak 2020
+Ağustos 2018 - Ocak 2020
 
-Ufak ölçekli uygulama geliştirme ve sunucu kurulum hizmetleri, sistem izleme (Zabbix, PRTG) uygulamalarında teknik çalışmalar. Teknikerlik görevinde Point to Point anten kurulumları, Zabbix dışında PRTG kurulumu, şirket ihtiyaçlarına yönelik web uygulamaları. Paneller ve sıcaklık algılama cihazı (Sunucu ve donanım ikisi birlikte).
+Küçük ölçekli uygulama geliştirme, sunucu kurulum hizmetleri ve sistem izleme (Zabbix, PRTG) uygulamaları üzerine çalıştım. Tekniker olarak Noktadan Noktaya (Point-to-Point) kablosuz ağ kurulumları yaptım. Şirket ihtiyaçlarına yönelik web uygulamaları, paneller ve donanım/yazılım entegre sıcaklık algılama çözümleri geliştirdim.
 
-## Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş. - Geliştirici/Tekniker
+## Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş. - Geliştirici / Tekniker
 
-Tem 2017 - Tem 2018
+Temmuz 2017 - Temmuz 2018
 
-Veri merkezinde teknikerlik ve küçük ölçekli uygulama geliştirme. Teknikerlik unvanında ağ kablolama, rack mount sistem kurulumu, donanım montaj, donanım güncelleme (BIOS update, Linux tabanlı sistemlerde sürücü kurulumu), ağ ve sistem izleme görevlerini yerine getirdim. Geliştirici unvanıyla PHP dili ile uygulamalar geliştirdim. Zabbix ile monitoring sistemleri geliştirdim (Kurulum dışında script, template geliştirme). Çeşitli entegrasyonlar ve server reconfiguration işlemleri yaptım.
-
----
-
-# Açık Kaynak Paylaşımlar
-
-## Blog Basement
-
-[Repo](https://github.com/MuhammedOzby/blog-basement)
-
-Uzun zamandır geliştirmeyi planladığım bir sistem. Github üzerindeki paylaşımlardan faydalanmanın yanı sıra bunları yönetmemi sağlayacak bir blog tabanı. Özel kılan tarafı ise hem SSR hem de API olarak iki hizmetide sağlayacak bir standalone yapı geliştirmekteyim.
-
-Kullanılan major teknolojiler:
-
-- NestJS
-  - PassportJS
-  - EJS
-  - TypeORM
-- Vite
-  - React
-  - Blog Teması
-  - Ant Design (Yeönetim tarafı için)
-
-## OBS Canlı yayın yönetim yardımcısı
-
-[Repo](https://github.com/MuhammedOzby/obs-elements)
-
-OBS üzerinden kayıt almak için yardımcı olarak faydalandığım bir uygulama geliştirmekteyim. Uygulama ilk etapta websocket ile OBS yönetmemi sağlarken ilerleyen süreçte çeşitli yayın araçları ve donatılar ile geliştirmekteyim.
-
-Kullanılan major teknolojiler:
-
-- Vite
-  - React
-  - Material UI (MUI)
-  - Redux
-  - obs-websocket-js
-  - react-router-dom
-
----
-
-# BİREYSEL DANIŞMANLIK İŞ DENEYİMLERİ
-
-## Teknik Servis Yönetim ve İş Sürecini Planlama Sistemi (10.2022-01.2023)
-
-Full Stack Geliştirici olarak;
-
-- Şirket bünyesindeki çalışan ve danışmanlar arasındaki iş yönetiminin sürecinin takibi,
-- Çağrı merkezi ve satış merkezi personellerinin açtığı taleplerin iş emirlerine dönüştürülerek sisteme aktarılması,
-- Sisteme aktarılan iş emirlerinin, teknik servis iç ve dış ekiplerine bulunduğu bölge ve çalışanın iş yoğunluğuna göre atanması,
-- Atanan iş emirlerinin teknik servis amirliği tarafından bir panel aracılığı ile iş takvimi, iş durumları listesi, sorun saptama ve bildirme sistemi ile kontrol ve yönetiminin sağlaması,
-- CRM desteği ile müşteri bilgilendirilmesini sağlayan bir interface geliştirdim.
-
-Firmanın gelecek iş planları doğrultusunda diğer uygulamalar ile entegre edilebilirliği de destekleyen; PWA ve Mobile APP oluşturduğum bir proje tasarladım ve geliştirdim. Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise Express JS ile MSSQL’i; ayrıca  tüm geliştirme sürecinde TypeScript dilini kullandım. Uygulamanın mobil ön yüzünde ise React Native ve TypeScript kullanılmıştır. Uygulamada kişisel veriler söz konusu olduğundan, tüm iş modeli süreci KVKK kapsamına uygun olarak geliştirilmiştir.
-
-## Stok - Transfer Yönetimi (03.2022-07.2022)
-
-Full Stack Geliştirici olarak Yönetici-Satın alımcı-Mağaza sorumluları arasında yapılan hareketlerin yürütülmesi amacıyla;
-
-- Aktif bakiye durumlarının tanımlandığı sanal kasalar oluşturulması,
-- Sanal kasalarda bakiye rezervinin tanımlanarak ürün tedariği için sanal cüzdan oluşturulması,
-- Ürün tedariğinin tüm personelin yetkisi nezdinde takip ve yönetimi,
-- Yapılan ürün tedariklerinin, değerinin mal varlığı statüsünde işlenmesi,
-- Otomatik mal varlığı yönetiminin yapılması,
-- Masraf yönetimin yapılması,
-- Personellerin iş süreçlerini, kendi rollerine uygun olarak tanımlanan özel ekranlarda yönetebildiği bir web uygulaması geliştirdim.
-
-Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise Express JS ile MariaDB’yi kullandım. Veri tabanı geliştirmesinin tüm adımlarında TypeORM, ayrıca  tüm geliştirme sürecinde TypeScript dilini kullandım.
-
-Özel paneller: Müşteriler ile şirket arasında gerekli raporların sağlanması amacıyla verilen ve şirket içerisinde belirlenen formüller ile rapor sayfaları geliştirdim. Ağırlıklı olarak JavaScript dili ile NodeJS üzerinde geliştirme yaptım. Entegrasyon gerektiği durumlarda ise PHP dilini de kullandım. Ön yüz kısmında ise bootstrap kütüphanesi dışında ağırlıklı olarak Chart JS ve bazı durumlarda da entegrasyon yapılan sistemin kendi UI temasına entegre çözümleri kullandım.
-
----
-
-# SERTİFİKALAR
-
-## Patika.dev - Javascript Bootcamp 
-
-[Dijital Sertifika sayfası](https://app.patika.dev/certificates/KvAmc8P)
-
-## HackerRank - JavaScript (Basic) Certificate
-
-[Dijital Sertifika sayfası](https://www.hackerrank.com/certificates/a9201364afad)
+Veri merkezinde teknikerlik görevleri ve küçük ölçekli uygulama geliştirme yaptım. Tekniker olarak ağ kablolama, rack sistem kurulumu, donanım montajı/güncellemesi (BIOS update, Linux sürücü kurulumu), ağ ve sistem izleme görevlerini yürüttüm. Geliştirici olarak PHP ile uygulamalar yazdım, Zabbix için özel script ve şablonlar geliştirerek izleme sistemlerini iyileştirdim. Çeşitli entegrasyonlar ve sunucu yapılandırma işlemleri gerçekleştirdim.
 
 ---
 
@@ -155,4 +89,4 @@ Front-End’de, Vite Framework ile React JS kütüphanesini; Back-End’de ise E
 
 ## İngilizce
 
-- Okuma/Yazma - A2           Konuşma - A2
+- Okuma/Yazma - A2 | Konuşma - A2
