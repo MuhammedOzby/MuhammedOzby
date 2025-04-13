@@ -11,7 +11,7 @@ Youtube Kanalları:
 
 ## Hakkımda
 
-Uzun süredir **NOC Sistem Uzmanı** olarak görev yapmaktayım. Bu roldeki temel sorumluluklarım geniş bir yelpazeyi kapsamakta olup, başlıcaları şunlardır:
+**NOC Sistem Uzmanı** olarak ağ (Cisco L2 Switching, 802.1X, ISE) ve sistem (Linux, L1 sunucu izleme/müdahale) yönetimi konularında tecrübeliyim. Temel sorumluluklarım şunları içerir:
 
 - Cisco cihazlarda Layer 2 (anahtarlama) desteği sağlamak.
 - Ağ üzerindeki cihazların genel denetimini ve kontrolünü gerçekleştirmek.
@@ -19,33 +19,44 @@ Uzun süredir **NOC Sistem Uzmanı** olarak görev yapmaktayım. Bu roldeki teme
 - Sunucuları sürekli izleyerek disk alanı temizleme, kaynak takibi ve kritik kaynak kullanım durumlarında müdahale gibi birinci seviye işlemleri yürütmek.
 - Layer 2 anahtarlama yapılandırmalarını denetlemek, kontrol etmek ve düzenlemek.
 
-Bu temel NOC görevlerine ek olarak, ağ yönetimi (Proxy, NAT, VPN yapılandırması), sistem yönetimi (AlmaLinux, Rocky Linux, openSUSE vb. Linux dağıtımları; son kullanıcı tarafında Arch tabanlı Endeavour OS) ve konteyner teknolojileri (aktif Docker kullanımı, başlangıç seviyesinde Kubernetes) alanlarında da yetkinliklere sahibim.
+Bu temel NOC görevlerine ek olarak, ağ yönetimi (Proxy, NAT, VPN), sistem yönetimi (AlmaLinux, Rocky Linux, openSUSE vb.) ve **konteyner teknolojileri** (aktif Docker kullanımı, başlangıç seviyesinde Kubernetes) alanlarında yetkinliklere sahibim.
 
 Geliştirme becerilerimi (ağırlıklı olarak TypeScript ile backend, zaman zaman React ile frontend) özellikle NOC operasyonlarını destekleyen otomasyon çözümleri ve dahili araçlar geliştirmek için aktif olarak kullanıyorum.
 
-Ana görevimin yanı sıra, geçmişte tam yığın (full-stack) geliştirici olarak bireysel danışmanlık projeleri de yürüttüm. Bu projelerde ağ ve sistem bilgimi kullanarak müşterilerime özel çözümler sundum (örn: NAS, SAMBA, VPN, Firewall kurulumları; KVM, IDRAC, RAID yapılandırmaları, donanım montajı).
+Geçmişte tam yığın (full-stack) geliştirici olarak bireysel danışmanlık projelerinde ağ ve sistem bilgimi kullanarak müşterilerime özel çözümler sundum (örn: NAS, SAMBA, VPN, Firewall kurulumları; KVM, IDRAC, RAID yapılandırmaları).
 
-Kariyerimde bir sonraki adımlar olarak DevOps ve ardından NetDevOps alanlarında uzmanlaşmayı hedefliyorum. Bu alanlardaki bireysel çalışmalarımı ve projelerimi GitHub profilimde paylaşıyorum.
+Kariyerimde DevOps ve ardından NetDevOps alanlarında uzmanlaşmayı hedefliyorum. Bu doğrultuda **konteyner teknolojileri (Docker, Kubernetes)**, modern **izleme araçları (Prometheus, Grafana)** ve otomasyon konularına odaklanıyorum. Bireysel çalışmalarımı ve projelerimi GitHub profilimde paylaşıyorum.
 
 ---
 
 #### Summary (English)
 
-I have extensive experience working as a **NOC System Specialist**. My primary responsibilities in this role include:
+As a **NOC System Specialist**, I have experience in network (Cisco L2 Switching, 802.1X, ISE) and system (Linux, L1 server monitoring/intervention) administration. My core responsibilities include:
 
-- Providing Layer 2 switching support, particularly on Cisco devices.
-- Auditing and controlling devices across the network.
-- Supporting and monitoring authentication and access control via platforms such as 802.1X, LDAP (Active Directory), and Cisco ISE.
-- Performing continuous server monitoring and first-level interventions (e.g., disk space cleanup, resource tracking, addressing critical resource usage).
-- Auditing, controlling, and adjusting Layer 2 switch configurations.
+- Providing Layer 2 switching support on Cisco devices.
+- Auditing and controlling network devices.
+- Supporting/monitoring authentication and access control (802.1X, LDAP, Cisco ISE).
+- Performing continuous server monitoring and L1 interventions (disk cleanup, resource tracking).
+- Auditing and adjusting L2 switch configurations.
 
-Beyond these core NOC duties, I also have experience configuring technologies like Proxy, NAT, and VPN. My system administration background covers various Linux distributions (AlmaLinux, Rocky Linux, openSUSE, etc.). I actively use Docker for containerization and have beginner-level familiarity with Kubernetes.
+Beyond core NOC duties, I am proficient in network management (Proxy, NAT, VPN), system administration (AlmaLinux, Rocky Linux, openSUSE, etc.), and **container technologies** (active Docker use, beginner-level Kubernetes).
 
-I leverage my development skills (primarily TypeScript for backend, occasionally React for frontend) to build automation scripts and internal tools that support NOC operations.
+I utilize my development skills (primarily TypeScript backend, React frontend) to build automation and internal tools supporting NOC operations. I have previous freelance experience as a full-stack developer, delivering custom network/system solutions (NAS, VPN, Firewalls, KVM, RAID, etc.).
 
-Alongside my primary role, I have also undertaken freelance projects as a full-stack developer, providing custom solutions using my network and system expertise (e.g., system/network setup including NAS/SAMBA/VPN/Firewalls, and device management like KVM/IDRAC/RAID).
+My career goal is to specialize in DevOps and NetDevOps, focusing on **container technologies (Docker, Kubernetes)**, modern **monitoring tools (Prometheus, Grafana)**, and automation. I share related personal projects on GitHub.
 
-My future career goals are focused on specializing in DevOps and subsequently NetDevOps. I share my personal projects related to these fields on my GitHub profile.
+---
+
+# Beceriler / Skills
+
+- **Programlama Dilleri:** TypeScript, JavaScript, PHP (geçmişte)
+- **Web Teknolojileri:** Node.js, React, NestJS, Express.js, HTML, CSS
+- **Veritabanları:** TypeORM, MSSQL, MariaDB
+- **Konteyner & Orkestrasyon:** Docker, Kubernetes (Başlangıç)
+- **İşletim Sistemleri:** Linux (AlmaLinux, Rocky, openSUSE, Debian, CentOS, Arch/EndeavourOS), Windows Server
+- **Ağ Teknolojileri:** TCP/IP, Switching (L2), Routing (Temel), VPN, NAT, Proxy, Firewall, Cisco IOS, 802.1X, LDAP, Cisco ISE
+- **İzleme & Otomasyon:** Zabbix (geçmişte), PRTG (geçmişte), Prometheus, Grafana, Bash Scripting
+- **Diğer:** Git, CI/CD (Temel), Sanallaştırma (KVM)
 
 ---
 
@@ -63,25 +74,25 @@ My future career goals are focused on specializing in DevOps and subsequently Ne
 
 Nisan 2023 - Devam ediyorum
 
-NOC uzmanlığı ve Sistem uzmanlığı rollerini bir arada yürütüyorum. NOC uzmanı olarak kritik durumları ilgili ekiplere yönlendirme, olaylara ilk müdahaleyi yapma ve saha desteği ile L1 seviyesinde ağ sorunlarına müdahale ediyorum. Sistem uzmanı olarak ise L1 seviyesinde sistem sorunlarına müdahale, acil durumlarda ilk müdahale ve tanımlı görevleri yerine getiriyorum.
+NOC uzmanlığı ve Sistem uzmanlığı rollerini bir arada yürütüyorum. NOC uzmanı olarak kritik durumları ilgili ekiplere yönlendirme, olaylara ilk müdahaleyi yapma ve saha desteği ile L1 seviyesinde ağ sorunlarına müdahale ediyorum. [Örnek Başarı: Proaktif müdahaleler ve L2 konfigürasyon düzenlemeleri ile ağ kesinti süresini azaltmaya yardımcı oldum.] Sistem uzmanı olarak ise L1 seviyesinde sistem sorunlarına müdahale, acil durumlarda ilk müdahale ve tanımlı görevleri yerine getiriyorum. [Örnek Başarı: Sunucu izleme süreçlerini iyileştirerek kritik kaynak aşımlarının önüne geçilmesine katkı sağladım.]
 
 ## Rising Dijital Teknoloji LTD. ŞTİ. - Yazılım Geliştirici
 
 Nisan 2022 - Eylül 2022
 
-Şirket ihtiyaçlarına yönelik rapor panelleri (Dashboard), yönetim araçları geliştirdim; sistem (VPN, sunucu vb.) kurulumları yaptım ve Full Stack olarak çeşitli yazılımlar/araçlar ürettim. Geliştirdiğim çözümler arasında şirketin sistemlerini izlemesini sağlayan raporlama sayfaları, ağ sistemleri yönetimi, uzak cihaz yönetim ve kontrol araçları (SSH tabanlı ve özel çözümler), sunucu kurulumları, otomasyon araçları, uyarı/bildirim sistemleri ve işlem kontrol/müdahale araçları bulunmaktadır.
+Şirket ihtiyaçlarına yönelik rapor panelleri (Dashboard), yönetim araçları geliştirdim; sistem (VPN, sunucu vb.) kurulumları yaptım ve Full Stack olarak çeşitli yazılımlar/araçlar ürettim. [Örnek Başarı: Geliştirdiğim interaktif raporlama panelleri sayesinde operasyonel verilerin takibi %X oranında kolaylaştı.] Çözümler arasında şirketin sistemlerini izlemesini sağlayan raporlama sayfaları, ağ sistemleri yönetimi, uzak cihaz yönetim ve kontrol araçları, sunucu kurulumları, otomasyon araçları [Örnek Başarı: Tekrarlayan Y görevi için geliştirilen otomasyon aracı ile haftalık Z saat tasarruf sağlandı.], uyarı/bildirim sistemleri ve işlem kontrol/müdahale araçları bulunmaktadır.
 
 ## TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti. - Geliştirici / Tekniker
 
 Ağustos 2018 - Ocak 2020
 
-Küçük ölçekli uygulama geliştirme, sunucu kurulum hizmetleri ve sistem izleme (Zabbix, PRTG) uygulamaları üzerine çalıştım. Tekniker olarak Noktadan Noktaya (Point-to-Point) kablosuz ağ kurulumları yaptım. Şirket ihtiyaçlarına yönelik web uygulamaları, paneller ve donanım/yazılım entegre sıcaklık algılama çözümleri geliştirdim.
+Küçük ölçekli uygulama geliştirme, sunucu kurulum hizmetleri ve sistem izleme (Zabbix, PRTG) uygulamaları üzerine çalıştım. Tekniker olarak Noktadan Noktaya (Point-to-Point) kablosuz ağ kurulumları yaptım. Şirket ihtiyaçlarına yönelik web uygulamaları, paneller ve donanım/yazılım entegre sıcaklık algılama çözümleri geliştirdim. [Örnek Başarı: Geliştirilen sıcaklık izleme sistemi ile sunucu odasındaki potansiyel donanım arızalarının önüne geçildi.]
 
 ## Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş. - Geliştirici / Tekniker
 
 Temmuz 2017 - Temmuz 2018
 
-Veri merkezinde teknikerlik görevleri ve küçük ölçekli uygulama geliştirme yaptım. Tekniker olarak ağ kablolama, rack sistem kurulumu, donanım montajı/güncellemesi (BIOS update, Linux sürücü kurulumu), ağ ve sistem izleme görevlerini yürüttüm. Geliştirici olarak PHP ile uygulamalar yazdım, Zabbix için özel script ve şablonlar geliştirerek izleme sistemlerini iyileştirdim. Çeşitli entegrasyonlar ve sunucu yapılandırma işlemleri gerçekleştirdim.
+Veri merkezinde teknikerlik görevleri ve küçük ölçekli uygulama geliştirme yaptım. Tekniker olarak ağ kablolama, rack sistem kurulumu, donanım montajı/güncellemesi, ağ ve sistem izleme görevlerini yürüttüm. Geliştirici olarak PHP ile uygulamalar yazdım, Zabbix için özel script ve şablonlar geliştirerek izleme sistemlerini iyileştirdim. [Örnek Başarı: Geliştirilen özel Zabbix şablonları ile izleme kapsamı %Y oranında genişletildi ve hata bildirim doğruluğu artırıldı.] Çeşitli entegrasyonlar ve sunucu yapılandırma işlemleri gerçekleştirdim.
 
 ---
 
