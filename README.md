@@ -74,25 +74,25 @@ My career goal is to specialize in DevOps and NetDevOps, focusing on **container
 
 Nisan 2023 - Devam ediyorum
 
-NOC uzmanlığı ve Sistem uzmanlığı rollerini bir arada yürütüyorum. NOC uzmanı olarak kritik durumları ilgili ekiplere yönlendirme, olaylara ilk müdahaleyi yapma ve saha desteği ile L1 seviyesinde ağ sorunlarına müdahale ediyorum. [Örnek Başarı: Proaktif müdahaleler ve L2 konfigürasyon düzenlemeleri ile ağ kesinti süresini azaltmaya yardımcı oldum.] Sistem uzmanı olarak ise L1 seviyesinde sistem sorunlarına müdahale, acil durumlarda ilk müdahale ve tanımlı görevleri yerine getiriyorum. [Örnek Başarı: Sunucu izleme süreçlerini iyileştirerek kritik kaynak aşımlarının önüne geçilmesine katkı sağladım.]
+NOC uzmanlığı ve Sistem uzmanlığı rollerini bir arada yürütüyorum. NOC uzmanı olarak kritik durumları ilgili ekiplere yönlendirme, olaylara ilk müdahaleyi yapma ve saha desteği ile L1 seviyesinde ağ sorunlarına müdahale ediyorum. Sistem uzmanı olarak ise L1 seviyesinde sistem sorunlarına müdahale, acil durumlarda ilk müdahale ve tanımlı görevleri yerine getiriyorum.
 
 ## Rising Dijital Teknoloji LTD. ŞTİ. - Yazılım Geliştirici
 
 Nisan 2022 - Eylül 2022
 
-Şirket ihtiyaçlarına yönelik rapor panelleri (Dashboard), yönetim araçları geliştirdim; sistem (VPN, sunucu vb.) kurulumları yaptım ve Full Stack olarak çeşitli yazılımlar/araçlar ürettim. [Örnek Başarı: Geliştirdiğim interaktif raporlama panelleri sayesinde operasyonel verilerin takibi %X oranında kolaylaştı.] Çözümler arasında şirketin sistemlerini izlemesini sağlayan raporlama sayfaları, ağ sistemleri yönetimi, uzak cihaz yönetim ve kontrol araçları, sunucu kurulumları, otomasyon araçları [Örnek Başarı: Tekrarlayan Y görevi için geliştirilen otomasyon aracı ile haftalık Z saat tasarruf sağlandı.], uyarı/bildirim sistemleri ve işlem kontrol/müdahale araçları bulunmaktadır.
+Şirket ihtiyaçlarına yönelik rapor panelleri (Dashboard), yönetim araçları geliştirdim; sistem (VPN, sunucu vb.) kurulumları yaptım ve Full Stack olarak çeşitli yazılımlar/araçlar ürettim. Çözümler arasında şirketin sistemlerini izlemesini sağlayan raporlama sayfaları, ağ sistemleri yönetimi, uzak cihaz yönetim ve kontrol araçları, sunucu kurulumları, otomasyon araçları, uyarı/bildirim sistemleri ve işlem kontrol/müdahale araçları bulunmaktadır.
 
 ## TeknoBoss Teknoloji ve Danışmanlık Hizmetleri Ltd. Şti. - Geliştirici / Tekniker
 
 Ağustos 2018 - Ocak 2020
 
-Küçük ölçekli uygulama geliştirme, sunucu kurulum hizmetleri ve sistem izleme (Zabbix, PRTG) uygulamaları üzerine çalıştım. Tekniker olarak Noktadan Noktaya (Point-to-Point) kablosuz ağ kurulumları yaptım. Şirket ihtiyaçlarına yönelik web uygulamaları, paneller ve donanım/yazılım entegre sıcaklık algılama çözümleri geliştirdim. [Örnek Başarı: Geliştirilen sıcaklık izleme sistemi ile sunucu odasındaki potansiyel donanım arızalarının önüne geçildi.]
+Küçük ölçekli uygulama geliştirme, sunucu kurulum hizmetleri ve sistem izleme (Zabbix, PRTG) uygulamaları üzerine çalıştım. Tekniker olarak Noktadan Noktaya (Point-to-Point) kablosuz ağ kurulumları yaptım. Şirket ihtiyaçlarına yönelik web uygulamaları, paneller ve donanım/yazılım entegre sıcaklık algılama çözümleri geliştirdim.
 
 ## Dal Bilgi Teknolojileri ve Bilişim Sistemleri Tic. A.Ş. - Geliştirici / Tekniker
 
 Temmuz 2017 - Temmuz 2018
 
-Veri merkezinde teknikerlik görevleri ve küçük ölçekli uygulama geliştirme yaptım. Tekniker olarak ağ kablolama, rack sistem kurulumu, donanım montajı/güncellemesi, ağ ve sistem izleme görevlerini yürüttüm. Geliştirici olarak PHP ile uygulamalar yazdım, Zabbix için özel script ve şablonlar geliştirerek izleme sistemlerini iyileştirdim. [Örnek Başarı: Geliştirilen özel Zabbix şablonları ile izleme kapsamı %Y oranında genişletildi ve hata bildirim doğruluğu artırıldı.] Çeşitli entegrasyonlar ve sunucu yapılandırma işlemleri gerçekleştirdim.
+Veri merkezinde teknikerlik görevleri ve küçük ölçekli uygulama geliştirme yaptım. Tekniker olarak ağ kablolama, rack sistem kurulumu, donanım montajı/güncellemesi, ağ ve sistem izleme görevlerini yürüttüm. Geliştirici olarak PHP ile uygulamalar yazdım, Zabbix için özel script ve şablonlar geliştirerek izleme sistemlerini iyileştirdim. Çeşitli entegrasyonlar ve sunucu yapılandırma işlemleri gerçekleştirdim.
 
 ---
 
