@@ -8,6 +8,8 @@ Ağ ve sistem altyapılarında olayları takip ediyor, sorunları araştırıyor
 
 İstanbul'da NOC sistem uzmanı olarak çalışıyorum. Bir alarmı değerlendirirken etkilenen cihazı veya servisi, ilgili iş kaydını ve geçmişteki eğilimini aynı bağlamda incelemeye odaklanıyorum.
 
+![Ağ, sistem ve olay kayıtlarından operasyonel görünüme uzanan akış](public/operation-flow.svg)
+
 ## İşimden örnekler
 
 ### Olayları görünür kılmak
@@ -23,6 +25,8 @@ Linux servisleri ve sunucuların kaynak kullanımını, sanallaştırma ortamlar
 Go ve TypeScript ile izleme sistemleri arasında entegrasyon prototipleri ve tekrar eden işleri kolaylaştıran araçlar geliştiriyorum. Bir aracın benim için değeri, teknik olarak ilginç olmasının yanında operasyon sırasında gerçekten işe yaraması.
 
 ## Açık çalışmalarım
+
+![Monitoring, syslog ve ağ laboratuvarı çalışmalarının görsel özeti](public/projects.svg)
 
 | Çalışma | Ne gösteriyor? |
 | --- | --- |

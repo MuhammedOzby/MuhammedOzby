@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Operasyonel görünüm: kaynaklardan bağlama</title>
+  <desc id="desc">Ağ, sistem ve olay kayıtlarının Grafana ve SQL ile cihaz durumu, iş kaydı ve geçmiş eğilimi içeren operasyon görünümüne taşınmasını gösteren şema.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1b29"/><stop offset="1" stop-color="#142b3a"/></linearGradient>
+    <linearGradient id="line" x2="1"><stop stop-color="#4e8e91"/><stop offset="1" stop-color="#e5a660"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#7f9da5" opacity=".23"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="14"/></clipPath>
+  </defs>
+  <rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#dots)"/>
+  <rect width="8" height="320" fill="#d99958" clip-path="url(#frame)"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="56" y="45" font-size="12" font-weight="700" letter-spacing="2.8" fill="#efb46e">OPERASYONEL GÖRÜNÜM</text>
+    <text x="56" y="72" font-size="19" fill="#e6eeee">Farklı kaynaklar, aynı bağlam</text>
+  </g>
+  <!-- Inputs -->
+  <g font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#d7e3e3">
+    <rect x="56" y="109" width="244" height="48" rx="8" fill="#172e3a" stroke="#446873"/>
+    <rect x="56" y="169" width="244" height="48" rx="8" fill="#172e3a" stroke="#446873"/>
+    <rect x="56" y="229" width="244" height="48" rx="8" fill="#172e3a" stroke="#446873"/>
+    <circle cx="80" cy="133" r="5" fill="#7eb9b5"/><circle cx="80" cy="193" r="5" fill="#7eb9b5"/><circle cx="80" cy="253" r="5" fill="#7eb9b5"/>
+    <text x="101" y="139">Ağ cihazları</text><text x="101" y="199">Sunucular ve servisler</text><text x="101" y="259">Olay / iş kayıtları</text>
+  </g>
+  <!-- Source lines -->
+  <g fill="none" stroke="#568487" stroke-width="2">
+    <path d="M300 133h63l69 60"/><path d="M300 193h132"/><path d="M300 253h63l69-60"/>
+  </g>
+  <circle cx="433" cy="193" r="74" fill="#132b38" stroke="#608b8e" stroke-width="2"/>
+  <circle cx="433" cy="193" r="59" fill="none" stroke="#90aaa7" opacity=".45" stroke-dasharray="2 7"/>
+  <circle cx="433" cy="193" r="9" fill="#e8ad68"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" text-anchor="middle">
+    <text x="433" y="173" font-size="12" letter-spacing="1.8" fill="#dbe7e5">BAĞLAM</text>
+    <text x="433" y="221" font-size="12" fill="#a9c1c2">Grafana + SQL</text>
+  </g>
+  <path d="M507 193h87" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <path d="M592 187l10 6-10 6" fill="none" stroke="#e8ad68" stroke-width="2"/>
+  <!-- Operational view -->
+  <rect x="613" y="91" width="531" height="200" rx="11" fill="#102330" stroke="#597b83"/>
+  <path d="M613 130h531" stroke="#3d626c"/>
+  <circle cx="636" cy="111" r="4" fill="#e8ad68"/>
+  <text x="652" y="116" font-family="DejaVu Sans Mono, monospace" font-size="12" letter-spacing="1.3" fill="#d2e1df">OPERASYON PANOSU</text>
+  <g font-family="DejaVu Sans, Arial, sans-serif" font-size="13">
+    <rect x="636" y="151" width="140" height="111" rx="7" fill="#173440"/>
+    <rect x="788" y="151" width="140" height="111" rx="7" fill="#173440"/>
+    <rect x="940" y="151" width="180" height="111" rx="7" fill="#173440"/>
+    <text x="652" y="177" fill="#a9c3c4">CİHAZ DURUMU</text>
+    <text x="804" y="177" fill="#a9c3c4">İŞ KAYDI</text>
+    <text x="956" y="177" fill="#a9c3c4">GEÇMİŞ EĞİLİM</text>
+    <circle cx="668" cy="218" r="9" fill="#75aaa1"/>
+    <path d="M690 218h61" stroke="#6f9699" stroke-width="5" stroke-linecap="round"/>
+    <path d="M804 209h94M804 222h70M804 235h82" stroke="#789ca0" stroke-width="4" stroke-linecap="round"/>
+    <path d="M956 235l25-15 20 6 23-31 25 10 25-29 26 8" fill="none" stroke="#e9aa62" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
