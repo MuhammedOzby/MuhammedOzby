@@ -24,9 +24,11 @@ Linux servisleri ve sunucuların kaynak kullanımını, sanallaştırma ortamlar
 
 Go ve TypeScript ile izleme sistemleri arasında entegrasyon prototipleri ve tekrar eden işleri kolaylaştıran araçlar geliştiriyorum. Bir aracın benim için değeri, teknik olarak ilginç olmasının yanında operasyon sırasında gerçekten işe yaraması.
 
-## Çalışma biçimim
+## Geliştirme sürecimde yapay zekâ
 
-Yapay zekâ araçlarını araştırma, alternatifleri değerlendirme, kod ve dokümantasyon taslakları hazırlama süreçlerinde kullanıyorum. Çıktıları teknik bağlama göre inceliyor; uygulama kararlarını ve yayımladığım işin sorumluluğunu üstleniyorum. Bu profilin metni ve SVG görselleri de benim yönlendirmem ve değerlendirmemle, yapay zekâ desteği kullanılarak hazırlandı.
+Yapay zekâ araçlarını araştırma, teknik seçenekleri karşılaştırma, kod ve dokümantasyon taslakları hazırlama ve sorunlara farklı yaklaşımlar bulma amacıyla kullanıyorum. Önerileri kendi teknik bağlamımda inceliyor; uygulama kararlarını ve yayımladığım işin sorumluluğunu üstleniyorum.
+
+Bu README'nin metni ve SVG görselleri de yapay zekâ desteğiyle, benim yönlendirme ve düzenlemelerimle hazırlandı.
 
 ## Açık çalışmalarım
 
