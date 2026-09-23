@@ -31,7 +31,8 @@
   <circle cx="433" cy="193" r="9" fill="#e8ad68"/>
   <g font-family="DejaVu Sans, Arial, sans-serif" text-anchor="middle">
     <text x="433" y="173" font-size="12" letter-spacing="1.8" fill="#dbe7e5">BAĞLAM</text>
-    <text x="433" y="221" font-size="12" fill="#a9c1c2">Grafana + SQL</text>
+    <text x="433" y="218" font-size="12" fill="#a9c1c2">Grafana</text>
+    <text x="433" y="235" font-size="12" fill="#a9c1c2">SQL sorguları</text>
   </g>
   <path d="M507 193h87" fill="none" stroke="url(#line)" stroke-width="3"/>
   <path d="M592 187l10 6-10 6" fill="none" stroke="#e8ad68" stroke-width="2"/>
